@@ -1,0 +1,7 @@
+name: taxonomy
+channels:
+  - conda-forge
+dependencies:
+  - momepy
+  - mapclassify
+  - seaborn
