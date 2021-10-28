@@ -17,7 +17,9 @@ Contact: martin@martinfleischmann.net
 
 Date: 28/10/2021
 
-![maps](leaflet_maps.png)
+[![maps](leaflet_maps.png)](https://martinfleis.github.io/numerical-taxonomy-maps/)
+
+The online interactive maps of the final classification are available at [https://martinfleis.github.io/numerical-taxonomy-maps/](https://martinfleis.github.io/numerical-taxonomy-maps/).
 
 ## Code
 
