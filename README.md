@@ -44,6 +44,8 @@ conda config --env --set channel_priority strict
 conda install momepy mapclassify seaborn
 ```
 
+Alternatively, you can use the Docker container `darribas/gds_py:7.0`.
+
 ### The code
 The folder `code_production` is an archive of the actual production code used to
 generate the analysis presented in the paper. However, it is recommended to use the code

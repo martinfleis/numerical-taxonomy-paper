@@ -2,6 +2,11 @@ name: taxonomy
 channels:
   - conda-forge
 dependencies:
-  - momepy
-  - mapclassify
-  - seaborn
+  - momepy==0.5.1
+  - geopandas==0.10.2
+  - pygeos==0.10.2
+  - mapclassify==2.4.3
+  - seaborn==0.11.2
+  - libpysal==4.5.1
+  - scikit-learn==1.0.1
+  - scipy==1.7.1
