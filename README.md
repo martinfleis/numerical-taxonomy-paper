@@ -17,6 +17,8 @@ Contact: martin@martinfleischmann.net
 
 Date: 28/10/2021
 
+![maps](leaflet_maps.png)
+
 ## Code
 
 The code is split into two folders - `code_method` containing cleaned reproducible
@@ -60,6 +62,8 @@ Non-proprietary data are archived on figshare as
 archive contains input geometry, generated geometry, all measured morphometric
 characters and a final classification labels for Prague and Amsterdam. It does not
 contain validation data, which are available upon request (due to the licensing).
+
+The online interactive maps of the final classification are available at [https://martinfleis.github.io/numerical-taxonomy-maps/](https://martinfleis.github.io/numerical-taxonomy-maps/).
 
 ## Preprint
 
